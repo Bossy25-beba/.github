@@ -1,1 +1,1 @@
-../README.md
+clean../README.md
